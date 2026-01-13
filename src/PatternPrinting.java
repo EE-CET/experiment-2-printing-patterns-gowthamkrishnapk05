@@ -10,7 +10,7 @@ public class PatternPrinting {
             System.out.print("* ");
         }
         System.out.println("");
-        for(int i=0;i<n;i++)
+        for(int i=1;i<n;i++)
         {
             System.out.println("*");
         }
